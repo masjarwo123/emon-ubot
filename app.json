@@ -83,7 +83,7 @@
     },
     "ALIVE_NAME": {
       "description": "Nama untuk menunjukan pesan .alive",
-      "value": "Sayonara-Userbot",
+      "value": "emon-ubot",
       "required": true
     },
     "S_PACK_NAME": {
